@@ -2,7 +2,9 @@ Cat Claw is a cable cutter mechanism made of modified off-the-shelf commercially
 Half Cat Rocketry provides the following:
 
 • Component Guidebook (HCR-4100)
+
 • SolidWorks CAD files (.sldprt)
+
 • 3D models of printed components (.stl)
 
 It is assumed that the reader is familiar with high-power rocketry and the use of basic hand tools.
